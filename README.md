@@ -49,6 +49,7 @@ This documentation provides an overview of a Python script that demonstrates the
 
 2. **Read the Grayscale Image**:
    - The script reads a grayscale image named "BrainNoise.jpeg."
+   - ![](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/BrainNoise.jpeg)
 
 3. **Apply Median Filter**:
    - A median filter is applied to the grayscale image to reduce noise. The filter's kernel size is set to 3.
@@ -64,6 +65,7 @@ This documentation provides an overview of a Python script that demonstrates the
 
 7. **Display the Images**:
    - The comparison image is displayed, showing the impact of the median filter on noise reduction in the original image.
+   - ![](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Denoised%20brain%20image.png)
 
 ### Usage
    - Replace 'BrainNoise.jpeg' with the filename of your own grayscale image if needed.
