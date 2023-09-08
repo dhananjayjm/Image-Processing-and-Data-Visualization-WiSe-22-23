@@ -8,6 +8,7 @@ This documentation provides an overview of a Python script that performs contras
 
 1. **Load the Image**:
    - The script starts by loading an input image, which should be in grayscale format (e.g., 'BoneScan.jpg').
+   - ![Original Image](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/BoneScan.jpg)
 
 2. **Set Minimum and Maximum Intensity Values**:
    - You can customize the minimum and maximum intensity values (`min_val` and `max_val`) to define the desired intensity range for the contrast stretching transformation. These values determine the range over which the transformation is applied.
@@ -24,6 +25,7 @@ This documentation provides an overview of a Python script that performs contras
 
 5. **Save the Enhanced Image**:
    - The enhanced image is saved in the same folder with a specified filename (e.g., 'Enhanced_BoneScan_Image.jpeg') using the `cv2.imwrite` function.
+   - ![Enhanced Image](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Enhanced_BoneScan_Image.jpeg)
 
 ### Usage
 To use this script:
