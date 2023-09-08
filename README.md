@@ -1,4 +1,4 @@
-## 1. Contrast Stretching Transformation in OpenCV
+## ![1. Contrast Stretching Transformation in OpenCV](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Bone%20Scan%20Image%20Enhancement.ipynb)
 
 ### Overview
 
@@ -33,7 +33,7 @@ To use this script:
    - Customize `min_val` and `max_val` to control the intensity range for contrast stretching.
    - Run the script, and it will generate the enhanced image.
 
-## 2. Median Filter Noise Reduction with OpenCV
+## ![2. Median Filter Noise Reduction with OpenCV](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Brain%20max%20filtering.ipynb)
 
 ### Overview
 
@@ -72,7 +72,7 @@ This documentation provides an overview of a Python script that demonstrates the
    - Customize the `kernel_size` variable to adjust the filter's window size.
    - Run the script to see the effect of the median filter on noise reduction.
 
-## 3. Image Processing with Sobel, Laplacian, and Canny Filters
+## ![3. Image Processing with Sobel, Laplacian, and Canny Filters](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Edge%20Detection%20with%20Sobel%20Laplacian%20Canny%20filters.ipynb)
 
 ### Overview
 
@@ -87,6 +87,7 @@ This documentation provides an overview of a Python script that demonstrates the
 
 2. **Read the Input Image**:
    - An image named 'Brain_autopsy_lateral_view_wiki.jpeg' is read in grayscale.
+   - ![](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Brain_autopsy_lateral_view_wiki.jpeg)
 
 3. **Resize the Image**:
    - The dimensions of the image are set to a width of 300 pixels and a height of 200 pixels using the `cv2.resize` function. The interpolation method used is `cv2.INTER_LINEAR`.
@@ -103,6 +104,8 @@ This documentation provides an overview of a Python script that demonstrates the
 
 6. **Display Images**:
    - The script displays the original image and the images processed with Sobel, Laplacian, and Canny filters using Matplotlib subplots.
+   - ![](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/edge%20detection%201.png)
+   - ![](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/edge%20detection%202.png)
    
 7. **Label Subplots**:
    - Each subplot is labeled with its corresponding filter name.
