@@ -1,4 +1,4 @@
-## ![1. Contrast Stretching Transformation in OpenCV](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Bone%20Scan%20Image%20Enhancement.ipynb)
+## [1. Contrast Stretching Transformation in OpenCV](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Bone%20Scan%20Image%20Enhancement.ipynb)
 
 ### Overview
 
