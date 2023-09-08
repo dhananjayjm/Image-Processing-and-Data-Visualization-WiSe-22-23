@@ -25,7 +25,7 @@ This documentation provides an overview of a Python script that performs contras
 
 5. **Save the Enhanced Image**:
    - The enhanced image is saved in the same folder with a specified filename (e.g., 'Enhanced_BoneScan_Image.jpeg') using the `cv2.imwrite` function.
-   - ![Enhanced Image](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Enhanced_BoneScan_Image.jpeg)
+   -![Enhanced Image](https://github.com/dhananjayjm/Image-Processing-and-Data-Visualization-WiSe-22-23/blob/main/Enhanced_BoneScan_Image.jpeg)
 
 ### Usage
 To use this script:
